@@ -1,1 +1,0 @@
-http://themeforest.net/item/-organic-shop-responsive-woocommerce-theme/full_screen_preview/2931436

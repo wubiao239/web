@@ -1,8 +1,0 @@
-
-RewriteEngine on
-rewritecond %{http_host} ^orecrushing.org [nc]
-rewriterule ^(.*)$ http://www.orecrushing.org/$1 [r=301,nc]
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.html\ HTTP/
-RewriteRule ^index\.html$ http://www.orecrushing.org/ [R=301,L]
-ErrorDocument 404 http://www.orecrushing.org/404.html
-
