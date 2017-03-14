@@ -1,0 +1,16 @@
+User-agent: *
+Allow:*
+Disallow: /cache/
+Disallow: /themes/
+Disallow: /img/
+Disallow: /image/
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /products/
+Disallow: /project/
+Disallow: /solutions/
+Disallow: /about-us.html
+Disallow: /about.html
+Disallow: /contact.html
+Disallow: /contact-us.html

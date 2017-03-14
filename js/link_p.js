@@ -1,0 +1,1 @@
+document.writeln("<script type=\"text/javascript\" src=\"/js/products.js\"></script> ");
